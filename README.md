@@ -1,8 +1,8 @@
 # Banking System
 
-- The Java Banking System project is a basically console base application that aims to automate various banking operations, making it efficient, secure, and user-friendly.
+- The Java Banking System project is a console-based application that aims to automate various banking operations, making it efficient, secure, and user-friendly.
 - It provides a platform for customers to perform banking tasks, such as login, sign-in, update details, balance inquiries, and more.
-- With Sign-in option you can create your account which details will be stored in csv file and whenever that user will log in with that username and password user can see all details and update also.
+= With the Sign-in option you can create your account which details will be stored in a CSV file and whenever that user logs in with that username and password user can see all details and update them.
 
 ## Tech Stack
 
